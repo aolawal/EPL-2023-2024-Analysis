@@ -24,3 +24,7 @@ English Premiership League (EPL) 2023/2024 Season Analysi
 - The ability of teams to keep clean sheet or concede less during their matches is key to their survival in EPL.
 - Top scoring teams are likely to secure a good position on EPL table
 
+## Key Insights;
+
+- Barchart showing Top 5 teams in EPL with Highest Number of Goals Scored
+
